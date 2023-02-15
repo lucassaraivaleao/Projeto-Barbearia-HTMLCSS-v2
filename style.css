@@ -30,7 +30,7 @@ nav a {
 }
 
 .produtos {
-    width: 80%;
+    width: 75%;
     margin: 0 auto;
     padding: 50px 0;
 }
@@ -44,6 +44,8 @@ nav a {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
+    border:  2px #000000 solid;
+    border-radius: 10px;
 }
 
 .prosutos h2 {
@@ -58,6 +60,6 @@ nav a {
 }
 
 .produto-descricao {
-    font-size: 18px;
+    font-size: 15px;
 
 }
